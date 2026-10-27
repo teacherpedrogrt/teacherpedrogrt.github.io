@@ -1,6 +1,6 @@
 # Conteúdo oficial do site (fonte única)
 
-Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** o `assets/index.html`.
+Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** todas as páginas que mostram o dado (veja `paginas.md`).
 Última revisão com o Pedro: 27/10/2026.
 
 ## Contato
@@ -51,5 +51,5 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** o
 - No site: faixa `#faixa` com `data-ate="2026-11-30"` (some sozinha depois da data).
 
 ## Pendências
-- Logo: decisão entre selo sol e globo. Até lá, só o texto "teacher pedro".
-- Endereço do site (GitHub Pages) e domínio próprio: ainda não publicados.
+- Logo: decisão entre selo sol e globo. Até lá, só o texto "Teacher Pedro".
+- Domínio próprio: não contratado (proposta). Site no ar em https://pedro2004teixeira-lab.github.io/teacher-pedro-site/
