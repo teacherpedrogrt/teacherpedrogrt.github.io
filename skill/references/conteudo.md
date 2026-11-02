@@ -8,12 +8,18 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** t
 - Instagram: @teacherpedrogrt → perfil `https://instagram.com/teacherpedrogrt` · direct `https://ig.me/m/teacherpedrogrt`
 - Mensagem padrão do WhatsApp: "Oi Pedro! Vim pelo site e quero saber da aula experimental."
 
+## Promessa e posicionamento (vem da skill teacher-pedro-dna)
+- Promessa oficial: do "travo na hora de falar" ao "resolvi sozinho".
+- Frase de apoio: "Você não precisa saber todas as palavras. Precisa saber se virar com as que tem."
+- Diferenciais: humanização, personalização, base científica.
+- Olhar de fisioterapeuta: ouvir, identificar o problema e resolver com ferramentas diferentes (sobre o raciocínio, nunca sobre tratamento).
+
 ## Quem sou
-- Professor de inglês desde 2023.
+- Professor de inglês desde 2023 (cerca de 4 anos ensinando: 2 em escolas de idiomas e 1 ano e 8 meses como professor particular, com método próprio).
 - Estudante de fisioterapia.
 - Ama Marvel e cultura pop: filmes, séries e música.
 - Frase de destaque (em maiúsculas): "HOJE ME ESPECIALIZEI EM ENSINAR INGLÊS:" (com dois-pontos)
-- História: estudou em escolas de idiomas, não via o progresso esperado mesmo com aulas regulares, porque faltava material didático focado nas necessidades dele e personalização.
+- História: estudou inglês por 12 anos em escolas de idiomas, desde os 12 anos de idade, e mesmo assim travava para falar: pouca prática e pouca personalização. "Você já estudou inglês. Agora precisa aprender a usar."
 
 ## Método (só o que já está definido)
 - Lema: inglês é treino, não matéria.
@@ -24,7 +30,7 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** t
 
 ## Como funciona (fluxo do site)
 1. Aluno chama no WhatsApp ou direct.
-2. Aula experimental **gratuita, 30 minutos** (conversa para descobrir o que trava a fala).
+2. Aula experimental **gratuita, 30 minutos**: anamnese e nivelamento (ouvir pra que você precisa do inglês, identificar onde trava, planejar o treino).
 3. Plano e material personalizados.
 4. Treino semanal.
 
@@ -51,5 +57,5 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** t
 - No site: faixa `#faixa` com `data-ate="2026-11-30"` (some sozinha depois da data).
 
 ## Pendências
-- Logo: decisão entre selo sol e globo. Até lá, só o texto "Teacher Pedro".
+- Logo: decidido, é o **globo** (ver SKILL.md). Antes de mexer, confira se o site da bio já usa o globo.
 - Domínio próprio: não contratado (proposta). Site no ar em https://pedro2004teixeira-lab.github.io/teacher-pedro-site/

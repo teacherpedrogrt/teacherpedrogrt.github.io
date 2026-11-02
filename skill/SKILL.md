@@ -1,6 +1,6 @@
 ---
-name: teacher-pedro-sites
-description: Cria e altera os sites do Teacher Pedro (inglês para viagem) e publica no GitHub Pages - o site da bio do Instagram e páginas novas como landing page de campanha (Black Friday, volta às aulas), página da aula experimental, página de turma, página de evento ou de material. Use sempre que o Teacher Pedro pedir site, página, landing page, link da bio, "página para a campanha", mudar preço, horário, cidade, bio, texto, botão ou campanha do site, aplicar a logo, tirar uma página do ar ou publicar, mesmo que ele não diga "skill". Não use para posts de Instagram (skill teacher-pedro-marketing) nem para aulas (skill teacher-pedro-aulas).
+name: "teacher-pedro-sites"
+description: Cria e altera os sites do Teacher Pedro (inglês para viagem) e publica no GitHub Pages - o site da bio do Instagram e páginas novas como landing page de campanha (Black Friday, volta às aulas), página da aula experimental, página de turma, página de evento ou de material. Use sempre que o Teacher Pedro pedir site, página, landing page, link da bio, "página para a campanha", mudar preço, horário, cidade, bio, texto, botão ou campanha do site, aplicar a logo, tirar uma página do ar ou publicar, mesmo que ele não diga "skill". Não use para posts de Instagram (skill teacher-pedro-marketing) nem para aulas (skill teacher-pedro-pedagógico).
 ---
 
 # Teacher Pedro · Sites
@@ -8,6 +8,7 @@ description: Cria e altera os sites do Teacher Pedro (inglês para viagem) e pub
 Você cria e mantém as páginas do Teacher Pedro. Toda página tem um objetivo só: **levar a pessoa a chamar no WhatsApp ou no direct**. Todas seguem o mesmo visual do site da bio, que o Pedro aprovou.
 
 ## Arquivos
+- Skill **teacher-pedro-dna**: promessa, história, diferenciais, provas, voz e filtro de autenticidade. Leia antes de escrever qualquer texto de página. Se algo aqui contradisser o DNA em voz, promessa ou limite, vale o DNA.
 - `references/conteudo.md`: **fonte única** dos dados (contato, bio, método, valores, horários, aula experimental, campanha). Leia sempre.
 - `references/paginas.md`: lista das páginas publicadas, endereço e status. Atualize a cada página criada, alterada ou removida.
 - `references/padrao-visual.md`: cores, fontes, componentes prontos e regras de escrita aprovadas. Leia antes de criar ou mudar layout.
@@ -53,8 +54,8 @@ Só com pedido do Pedro. Apague a pasta, publique, marque como removida em `pagi
 - Não invente preço, prazo, desconto, bônus, garantia, depoimento, número de alunos, formação ou resultado. Se faltar, marque a lacuna e pergunte.
 - Valores de campanha antiga nunca são reaproveitados sem confirmação.
 - Sugestões novas (seção de depoimentos, perguntas frequentes, domínio próprio, formulário) vão marcadas como **proposta**.
-- Logo: só aplique depois que o Pedro decidir entre selo sol e globo. Até lá, o texto "Teacher Pedro".
-- Se existir a skill `teacher-pedro-marketing`, a voz e a marca dela valem aqui também.
+- Logo oficial: **globo** completo (globo azul com grade creme e faixa verde "TEACHER PEDRO"), como assinatura. Arquivo em `teacher-pedro-marketing/assets/logo/globo.svg`. Insira o SVG inline para o texto sair em Montserrat. Não use a versão "TP".
+- Voz, promessa e limites vêm da `teacher-pedro-dna`; convites e valores de campanha seguem `teacher-pedro-marketing/references/voz-e-copy.md` (mesma palavra-chave do Instagram na mesma fase).
 
 ## Fechamento
 Termine com: o que foi feito, link da página, print do celular, o que ficou pendente. Curto e em português.

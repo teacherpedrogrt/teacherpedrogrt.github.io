@@ -24,7 +24,7 @@ Seções alternam fundo **azul / creme / verde**. Nunca duas seguidas iguais.
 - Nunca `text-transform:lowercase`.
 - Depois de dois-pontos, minúscula (regra do português), a menos que o Pedro peça outra coisa.
 - Separador entre itens curtos: `•` (ex.: "Presencial em Mogi Guaçu e Araras • Online").
-- Voz: "amigo que já viajou", frases curtas, "você", sem promessa e sem cara de IA.
+- Voz: a do DNA (skill `teacher-pedro-dna`): como o Pedro fala com amigos, brincalhão, acolhedor e incentivador; frases curtas, "você", sem promessa de resultado, sem tom de coach e sem cara de IA.
 - Botão precisa caber em **uma linha** em 390 px. Se não couber, encurte o texto.
 
 ## Componentes prontos (em `assets/site-bio.html`)
@@ -47,6 +47,6 @@ Seções alternam fundo **azul / creme / verde**. Nunca duas seguidas iguais.
 Adesivos disponíveis no arquivo: `i-liberty`, `i-pass`, `i-bag`, `i-chat`, `i-togo`. Outros (águia, hambúrguer, táxi, Empire State, Golden Gate, bandeira, etiqueta %, lupa) estão em `assets/templates/artes_base.html` da skill `teacher-pedro-marketing`. Copie o `<symbol>` para a página se precisar.
 
 ## Regras visuais vindas do Pedro
-- Sem fotos do Pedro. Adesivos no lugar.
-- Imagens de filmes, séries ou pessoas só se o Pedro enviar.
+- Sem fotos do Pedro. Adesivos e recortes em P&B de objetos do tema (colagem, como nas artes) no lugar.
+- Pessoas conhecidas, personagens de filmes/séries e logos de terceiros não entram em página que vende aula. Imagens de pessoas só se o Pedro enviar.
 - No máximo um adesivo por seção.
