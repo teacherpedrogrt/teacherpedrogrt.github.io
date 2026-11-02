@@ -17,9 +17,9 @@ Você cria e mantém as páginas do Teacher Pedro. Toda página tem um objetivo 
 - `scripts/conferir.js`: prints por seção em 390 px. Avisa rolagem horizontal e fonte que não carregou.
 
 ## Onde as páginas moram
-- Repositório: `pedro2004teixeira-lab/teacher-pedro-site`, branch `main`. GitHub Pages já está ativo.
-- Site da bio: `index.html` na raiz → https://pedro2004teixeira-lab.github.io/teacher-pedro-site/
-- Página nova: pasta própria com `index.html` → `https://pedro2004teixeira-lab.github.io/teacher-pedro-site/<pasta>/`
+- Repositório: `teacherpedrogrt/teacherpedrogrt.github.io`, branch `main`. GitHub Pages já está ativo.
+- Site da bio: `index.html` na raiz → https://teacherpedrogrt.github.io/
+- Página nova: pasta própria com `index.html` → `https://teacherpedrogrt.github.io/<pasta>/`
 - Nome da pasta: curto, minúsculo, sem acento, com hífen (`black-friday`, `aula-experimental`, `turma-eua-2027`).
 - A pasta `skill/` do repositório guarda uma cópia desta skill. Mantenha atualizada quando mudar a skill.
 
@@ -42,7 +42,7 @@ Você cria e mantém as páginas do Teacher Pedro. Toda página tem um objetivo 
 ## Publicar
 1. Repositório na sessão: se não estiver, use a ferramenta de adicionar repositório (ou peça ao Pedro para conectar em https://claude.ai/connect-github).
 2. `git fetch origin main` e rebase se preciso. Commit em português ("site: <o que mudou>") e `git push origin main`.
-3. Confirme a publicação com `gh run list -R pedro2004teixeira-lab/teacher-pedro-site -L 1` (deve aparecer `pages build and deployment` com `success`). O ambiente do Claude pode não conseguir abrir `github.io`; nesse caso, diga isso e peça ao Pedro para abrir o link no celular.
+3. Confirme a publicação com `gh run list -R teacherpedrogrt/teacherpedrogrt.github.io -L 1` (deve aparecer `pages build and deployment` com `success`). O ambiente do Claude pode não conseguir abrir `github.io`; nesse caso, diga isso e peça ao Pedro para abrir o link no celular.
 4. Leva 1 a 2 minutos para atualizar. Se der 404 logo depois, é só esperar.
 
 Sem acesso ao GitHub: entregue o `index.html` e explique o upload pelo site (Add file → Upload files, na pasta certa).

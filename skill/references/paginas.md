@@ -1,11 +1,11 @@
 # Páginas publicadas
 
-Repositório: `pedro2004teixeira-lab/teacher-pedro-site` · branch `main` · GitHub Pages ativo.
-Base: https://pedro2004teixeira-lab.github.io/teacher-pedro-site/
+Repositório: `teacherpedrogrt/teacherpedrogrt.github.io` · branch `main` · GitHub Pages ativo.
+Base: https://teacherpedrogrt.github.io/
 
 | Página | Pasta | Endereço | Status | Última mudança |
 |---|---|---|---|---|
-| Site da bio | `/` (raiz) | https://pedro2004teixeira-lab.github.io/teacher-pedro-site/ | no ar, link na bio | 27/10/2026: maiúsculas, horários, aula experimental gratuita de 30 min |
+| Site da bio | `/` (raiz) | https://teacherpedrogrt.github.io/ | no ar, link na bio | 27/10/2026: maiúsculas, horários, aula experimental gratuita de 30 min |
 
 ## Campanhas com prazo
 | Página | Faixa até | O que fazer depois |

@@ -58,4 +58,4 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** t
 
 ## Pendências
 - Logo: decidido, é o **globo** (ver SKILL.md). Antes de mexer, confira se o site da bio já usa o globo.
-- Domínio próprio: não contratado (proposta). Site no ar em https://pedro2004teixeira-lab.github.io/teacher-pedro-site/
+- Domínio próprio: não contratado (proposta). Site no ar em https://teacherpedrogrt.github.io/
