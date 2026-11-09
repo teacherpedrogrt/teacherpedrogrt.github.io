@@ -1,7 +1,7 @@
 # Conteúdo oficial do site (fonte única)
 
 Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** todas as páginas que mostram o dado (veja `paginas.md`).
-Última revisão com o Pedro: 27/10/2026.
+Última revisão com o Pedro: 09/11/2026.
 
 ## Contato
 - WhatsApp: (19) 99715-9133 → link `https://wa.me/5519997159133?text=<mensagem codificada>`
@@ -26,7 +26,8 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** t
 - Progressão: modelo → controle → decisão → autonomia.
 - Aulas de 60 minutos.
 - Aulas alternam construção (input, estruturas, problem solving) e prática real (recall, decisão, role play).
-- Foco atual: inglês para viagem (aeroporto, hospedagem, restaurante, transporte, compras, imprevistos, interações sociais). Outros objetivos são atendidos, mas não são o destaque.
+- Serviços (decidido em 09/11/2026): inglês para viagem e inglês para o trabalho (destaques), reforço escolar de inglês e preparatório para ENEM e vestibulares (os dois).
+- Cada serviço tem página própria; a home apresenta todos.
 
 ## Como funciona (fluxo do site)
 1. Aluno chama no WhatsApp ou direct.
@@ -34,15 +35,23 @@ Tudo que aparece no site vem daqui. Ao mudar algo, atualize este arquivo **e** t
 3. Plano e material personalizados.
 4. Treino semanal.
 
+## Aula experimental
+- Só para inglês regular (viagem, trabalho e outros objetivos).
+- **Não existe aula experimental para reforço escolar nem para vestibular.**
+
 ## Modalidades e valores regulares (mensais)
 | Modalidade | 1x/semana | 2x/semana |
 |---|---|---|
 | Individual | R$ 280 | R$ 400 |
 | Grupo (até 5 pessoas) | R$ 200 | R$ 320 |
 
+## Reforço escolar e vestibular
+- Sem preço no site: valores combinados no WhatsApp (decidido em 09/11/2026).
+- Fluxo: você me chama → a gente combina → aula no ritmo do aluno → treino até a prova.
+
 ## Formato e local
-- Híbrido: presencial em **Mogi Guaçu** e **Araras**, ou online.
-- Texto do topo: "Presencial em Mogi Guaçu e Araras • Online".
+- Híbrido: presencial em **Mogi Guaçu**, **Mogi Mirim** e **Araras** (vale para 2027), ou online.
+- Texto padrão: "Presencial em Mogi Guaçu, Mogi Mirim e Araras • Online".
 
 ## Horário de atendimento
 - Segunda a sexta: 8h às 20h
